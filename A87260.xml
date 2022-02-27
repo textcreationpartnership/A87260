@@ -1,0 +1,709 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for James Mclurg late dean of Guild of Edinburgh, George Clerk, Robert Blackwood and others, merchants and tradesmen of Edinburgh against Sir John Hall, Sir Archibald Muir, and others the present magistrates and council thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87260</idno>
+            <idno type="STC">Wing I164aA</idno>
+            <idno type="STC">ESTC R178645</idno>
+            <idno type="EEBO-CITATION">45504478</idno>
+            <idno type="OCLC">ocm 45504478</idno>
+            <idno type="VID">171794</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2591:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for James Mclurg late dean of Guild of Edinburgh, George Clerk, Robert Blackwood and others, merchants and tradesmen of Edinburgh against Sir John Hall, Sir Archibald Muir, and others the present magistrates and council thereof.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through with some loss of print.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mclurg, James.</term>
+               <term>Clerk, George.</term>
+               <term>Blackwood, Robert.</term>
+               <term>Hall, John, --  Sir.</term>
+               <term>Muir, Archibald, --  Sir.</term>
+               <term>Edinburgh (Scotland). --  Town Council.</term>
+               <term>Judges --  Scotland --  Edinburgh --  Election --  Early works to 1800.</term>
+               <term>City councils --  Scotland --  Edinburgh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171794:1"/>
+            <head> 
+               <figure>
+                  <figDesc>emblem of the City of Edinburgh</figDesc>
+                  <head>NISI DOMINVS FRVSTRA</head>
+               </figure>
+            </head>
+            <head>INFORMATION, For <hi>James M<hi rend="sup">c</hi>lurg</hi> late Dean of Guild of
+<hi>Edinburgh, George Clerk, Robert Blackwood,</hi> and others, Mer<g ref="char:EOLhyphen"/>chants and
+Tradeſmen of <hi>Edinburgh,</hi> againſt Sir <hi>John Hall,</hi> Sir
+<hi>Archibald Muir,</hi> and others the preſent Magiſtrats and Council
+thereof.</head>
+            <p>THe perpetuating of the Magiſtracy and Government of the City of
+<hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> in the ſame perſons, or in the Hands of few by Turns,
+being con<g ref="char:EOLhyphen"/>trary to the fundamental Laws and Conſtitutions of the City,
+tending not only to the diſcouragment of other well deſerving Citizens, but
+al<g ref="char:EOLhyphen"/>ſo to the appropriating and waſting of the Common good, for ſupporting
+the privat Intereſt and Ends of ſuch as aim at perpetual Magiſtracy;
+theſe Projects and Deſigns have always been moſt unacceptable to the
+generality of the Inha<g ref="char:EOLhyphen"/>bitants.</p>
+            <p>There was never a more open and manifeſt deſign of
+perpetuating the Ma<g ref="char:EOLhyphen"/>giſtracy in the Hands of a few, than at this time, a
+particular Faction having continued conſtantly in the Council, and influenced
+all the Elections theſe four years bygone; during which time, more Violations
+and Invaſions have been made upon the Set, and Conſtitution of the City,
+then can be inſtanced in any preceeding Age, and that not only by overturning
+and contemning the Laws for regulating the manner of Leeting and Election, but
+by groſs and ex<g ref="char:EOLhyphen"/>orbitant Gratifications and Donatives, without either cauſe
+or pretext, not<g ref="char:EOLhyphen"/>withſtanding that during the Influence of this Magiſtracy,
+the Good Town loſt the Impoſition upon Malt, which was the greateſt part
+of their Revenue, and which was enjoyed and poſſeſt by their
+Predeceſſors, with the univerſal conſent of the Inhabitants, the
+Brewars, and all who bore the Burden, and thereby was ſo far differenced from
+the caſe of the illegal Exactions, diſcharged by the <hi>Claim of
+Right,</hi> that the Privy Council upon full Debate did continue the
+Ma<g ref="char:EOLhyphen"/>giſtrats in poſſeſſion thereof, and accordingly they did
+poſſeſs it until it was<pb n="2" facs="tcp:171794:2"/>diſcharged and cut off by an
+Act of Parliament; and if their Imprudence was not the occaſion of that Act,
+at leaſt it muſt be ſaid, that no Donative (whereof ever their
+Predeceſſors were poſſeſſed) was diſcharged by any King or
+Parliament, except what fell out during their Magiſtracy; yet that Misfortune
+did not hinder the exorbitant Gratifications, which were deſigned to
+ſupport and advance their Facti<g ref="char:EOLhyphen"/>on, for which there lyes a Complaint at the
+inſtance of the ſame Purſuers before the Lords Commiſſioners of Their
+Majeſties Theſaury, againſt theſe who have had the influence of the
+Magiſtracy theſe years bygone, and who unwarrantably elicit and delivered
+up a Bond for a great Sum of Money, and who to cover their ſhame in
+delivering that Bond, do appear before the Theſaury to ſupport it as a
+juſt Debt, contrary their Truſt, which doth oblige them to defend the
+Common-Good a<g ref="char:EOLhyphen"/>gainſt all unjuſt Burdens and Impoſitions.</p>
+            <p>There is ſuch regard due to the Magiſtracy of this
+Metropolitan City, that the Ci<g ref="char:EOLhyphen"/>tizens of it could not be induced to ſtate any
+publick Complaint againſt them upon a few or ſmall Tranſgreſſions;
+but finding at laſt that the fundamental Conſtitutions had been utterly
+neglected and contemned at three ſeveral ſucceſſive Elections, and that
+by theſe Streatches, the Government of the City is now divided betwixt Sir
+<hi>John Hall</hi> and Sir <hi>Archibald Muir,</hi> who have ſucceeded by
+Turns, and who ſtill continue the ſame perſons upon the Council, that
+influenced the former Elections, and who were retained, and acted in the
+Council manifeſtly contrary to the Set, and the general Inclination of the
+City both Merchants and Trades, and all that were any clog or weight upon them,
+being now thrown out of the Magiſtracy &amp; Council. Some of the Neighbours
+who joined not in any of their Illegalities, nor were elected to any Office
+ſince <hi>Michaelmaſs</hi> 1690, and refuſed to ſit and act with Sir
+<hi>Archi<g ref="char:EOLhyphen"/>bald</hi> after his Election, until they took a formal
+Proteſtation, which the Records bears, that their coming to Council ſhould
+not import any approbation of the Election.) Have at laſt been conſtrained
+to raiſe a Proceſs before the Privy Coun<g ref="char:EOLhyphen"/>cil, for puniſhing of theſe
+who contraveened the ſame, and have entred into the Ma<g ref="char:EOLhyphen"/>giſtracy by illegal
+Elections, and for annulling the laſt Election that the Magi<g ref="char:EOLhyphen"/>ſtrats and
+Council of the preceeding year, may proceed to a new legal and formal Election,
+excluding only ſuch particular perſons as ſhall be proven guilty, or
+acceſſo<g ref="char:EOLhyphen"/>ry to the Invaſions and Incroachments Libelled.</p>
+            <p>This Proceſs being called, the Privy Council were pleaſed to
+hear Parties diſtinctly in their own Preſence upon every Article of the
+Libel; point by point, and afterwards to allow both Parties to inform upon the
+Grounds that were Debated, that the Buſineſs might be diſtinctly
+underſtood, and deliberatly deter<g ref="char:EOLhyphen"/>mined, according to the Weight and
+Importance of it.</p>
+            <p>The firſt Article of the Libel, is, that Sir <hi>John Hall</hi>
+being Elected in <hi>May</hi> 1689, and being bound by Oath in the uſual
+form, not to continue above two years in the Office together, was neceſsitate
+to dimit in <hi>April</hi> 1691, at which time there appeared a Faction in the
+Town Council, who were determined by right or wrong, to advance Sir
+<hi>Archibald Muir</hi> to the vacant Office, and albeit that Party had a great
+Support at the time, yet the appearance of a Faction, gave early ſuſ<g ref="char:EOLhyphen"/>picion
+of the deſign, of perpetuating the Magiſtracy in the hands of a few, and
+this procured ſuch Oppoſition to that deſign, that it could not be
+brought about with<g ref="char:EOLhyphen"/>out extraordinary Streatches.</p>
+            <p>The ordinary Council of <hi>Edinburgh</hi> conſiſts of 25
+perſons, and the Provoſt or Praeſes doth Vote firſt, and hath a
+ſecond Vote in caſe of equality, and the Set requires a Council of thirty
+perſons, to be all preſent at the Leeting of Ma<g ref="char:EOLhyphen"/>giſtrats, and 38 at the
+Election, who muſt alſo be all preſent, ſo that the Coun<g ref="char:EOLhyphen"/>cil of 30
+having power of making Leets, may exclude whom they pleaſe from 
+<pb n="3" facs="tcp:171794:2"/>theſe Leets, and conſequently from the Magiſtracy, and
+therefore the great In<g ref="char:EOLhyphen"/>trigue of Elections, is the framing of the Council of
+30, for whoever is Ma<g ref="char:EOLhyphen"/>ſter of the plurality of that Council, is by
+conſequence Maſter of the Election, by excluding all Competitors.</p>
+            <p>The Method of making up the Council of 30, is by calling all to be
+preſent, who have Right to Vote in the Leeting, and if any be abſent,
+theſe who are pre<g ref="char:EOLhyphen"/>ſent have power to chuſe others to repreſent the
+abſents, and theſe who are Elect<g ref="char:EOLhyphen"/>ed to fill up the Council are called
+Proxies, ſo the Strugle on either hand was to have Proxies Elected favourable
+to the deſign of either Party, and upon the matter the plurality of theſe
+who were preſent and upon the place, had the true influ<g ref="char:EOLhyphen"/>ence to turn the
+Election to either ſide.</p>
+            <p>It happened that there were only 22 of 30 upon the place, whereby
+eight Proxies were to be Elected for filling up the Council of 30.</p>
+            <p>The Provoſt having Demitted, the eldeſt Baillie did precede,
+and as Praeſes, had the firſt and laſt Vote in caſe of equality; and in
+the choiſe of the eight Pro<g ref="char:EOLhyphen"/>xies, ſome were elected croſs to the Deſign
+of advancing Sir <hi>Archibald,</hi> by an un<g ref="char:EOLhyphen"/>controverted plurality, but as to
+the greateſt number of Proxies, the Council di<g ref="char:EOLhyphen"/>vided equally eleven to
+eleven, whereby the Praeſes, who did not favour Sir <hi>Archibald,</hi> did
+caſt the ballance againſt him, by his odd Vote.</p>
+            <p>Sir <hi>Archibald</hi> and his parties hopes being defeated by
+loſs of all the Proxies, they proteſted againſt the Praeſes, his taking
+an odd Vote, and did withdraw in a moſt irregular and mutinous manner.</p>
+            <p>Theſe who remained might have joyned with the eight Proxies
+nominat, who being elected, had as good right to act as any other Members of
+the Council, and might have elected new Proxies in place of theſe who had
+withdrawn; but ha<g ref="char:EOLhyphen"/>ving no other deſign, than peace and concord, they rather
+chooſed to adjourn the Council to another diet; and to juſtifie their
+procedure, did exhibit an In<g ref="char:EOLhyphen"/>formation to the Duke of <hi>Hamilton,</hi>
+Preſident of the Privy Council, which his Grace having communicat to the
+Board, and Anſwers being made to it, both parties were called to debate the
+Point anent the right of the odd Vote.</p>
+            <p>Sir <hi>Archibald</hi> and his faction, finding themſelves
+worſted in the matter of the odd Vote, did take the boldneſs and confidence
+to aſſert a manifeſt falſhood at the Council Barr, which was the
+foundation of annulling the former Election of Pro<g ref="char:EOLhyphen"/>xies, and introducing Sir
+<hi>Archibald</hi> to the Magiſtracy, and of all the ſtretches in the
+following Elections, <hi>viz.</hi> That the Proxies were not at all regularly
+Elect<g ref="char:EOLhyphen"/>ed by either party, in ſo far as two old Counſellours of the former
+year, who were upon the place, had right to have concurred with the preſent
+ordinary Coun<g ref="char:EOLhyphen"/>cil, which would have made up the number of twenty four, whereby
+there was no place for eight, but ſix Proxies to fill up the number of
+thirty. This impudent and falſe aſſertion did gain credit with the Privy
+Council, who found that the two old Counſellours ought to have been called to
+an extraordinary E<g ref="char:EOLhyphen"/>lection, being upon the place; and that no Proxies ſhould
+have been choſen for them, unleſs they had refuſed when called; and that
+any Election without their being called, was informal and irregular; and
+therefore ordained the Magiſtrats and Council to begin a formal Election
+<hi>de novo.</hi>
+            </p>
+            <p>Sir <hi>Archibald</hi> and his faction having the advantage of
+this unexpected Interlo<g ref="char:EOLhyphen"/>cutor, they knew their impudent aſſertion would not
+abide a ſecond view; and therefore did peremptorly reſolve to precipitat an
+Election before the next diet of Privy Council, and when they were met, to
+begin this new and regular Ele<g ref="char:EOLhyphen"/>ction, the firſt ſtep was ſtill to
+chooſe the Proxies, for filling up the Council of<pb n="4" facs="tcp:171794:3"/>thirty;
+and then they conſidering that the Penalty of tranſgreſſing the Set, is
+In<g ref="char:EOLhyphen"/>famy and Incapacity, they durſt not adventure to admit theſe old
+Counſellours, as having any proper right to ſit, and Vote with them in the
+Election of the o<g ref="char:EOLhyphen"/>ther Proxies; but rather chooſed to throw off the Mask, and
+owne to the World, how impudently they had averred a falſehood at the Council
+Bar, as if any old Counſellours had a proper right to concur with the
+ordinary Council in electing of Proxies; and a <hi>Quorum</hi> of the ordinary
+Council of them preſent, did Elect Proxies so fill up the Council of thirty,
+in the very ſame way and man<g ref="char:EOLhyphen"/>ner as the former Proxies had been Elected,
+without admitting theſe old Coun<g ref="char:EOLhyphen"/>ſellours; So that if the firſt Election
+of Proxies was void, the ſecond Election was much more ſo, being after the
+Act of Council, founded upon their own aſ<g ref="char:EOLhyphen"/>ſertion, and being contrary to,
+and inconſiſtent with both; and if the firſt E<g ref="char:EOLhyphen"/>lection of Proxies was
+regular and formal, as truly it was, there was no place for a ſecond Election
+of Proxies.</p>
+            <p>This being an Important Article, which is the foundation of the
+preſent Ma<g ref="char:EOLhyphen"/>giſtracy, and all the Illegalities that followed; The Purſuers
+make uſe of no o<g ref="char:EOLhyphen"/>ther probation, than the Town Council Books produced,
+wherein is recorded the Information exhibited to the Duke of
+<hi>Hamiltoun,</hi> with the Anſwers and Act of Privy Council, annulling the
+former Election of Proxies, all in the Sederunt the 5<hi>th</hi> of
+<hi>June</hi> 1691 and upon the 6<hi>th</hi> of <hi>June,</hi> there is marked
+a Sederunt of the ordinary Council, not comprehending theſe old
+Counſellours; and in the ſame Sederunt, the ſaid <hi>James Baillie</hi>
+and <hi>Patrick Johnſton,</hi> who were pre<g ref="char:EOLhyphen"/>tended to have a proper Right to
+joyn with the ordinary Council, and have a Vote in the Election of Proxies, are
+Elected Proxies in place of two old Counſel<g ref="char:EOLhyphen"/>lours, which proves the point as
+perfectly as any thing imaginable can be.</p>
+            <p>It is anſwered, 1. That it appears by the Council Books
+produced, that <hi>James Baillie</hi> and <hi>Patrick Johnston,</hi> were
+preſent in the Council of thirty, at the Leeting, and in the Council or
+thirty eight, at the Election of Sir <hi>Archibald Muir,</hi> and whether they
+be marked preſent as Counſellours, or as Proxies, is but a meer niceity,
+which the Clerk may not have regarded in the marking of the Council Books; and
+it is of no moment, or importance, whether they were there as Counſellours,
+or as Proxies, ſeing they were preſent; neither can every ſmall error or
+omiſſion be ſufficient to annul an Election, which would leſſen the
+au<g ref="char:EOLhyphen"/>thority of Magiſtrats.</p>
+            <p n="2">2. The Election 1691. cannot be quarrelled after ſo long
+time, becauſe there hath interveened two Elections; So that the Magiſtrats
+then Elected, have en<g ref="char:EOLhyphen"/>joyed the full time of their Offices, and have now fallen
+out by courſe, and by ſuch a conſequence, the Purſuers might run back
+to quarrel Elections at any time within the preſcription of fourty years.</p>
+            <p>It was Replyed, The Council Books do clearly prove, that the
+procedor at Sir <hi>Archibalds</hi> Election, was unſuitable to what he had
+aſſerted, and contrary to the Act of Privy Council: And ſeing the Law has
+fixed certain Rules in Ele<g ref="char:EOLhyphen"/>ction, for no other end, but to prevent Faction in,
+and inhauncing of the Ma<g ref="char:EOLhyphen"/>giſtracy; Theſe Rules ought to have been
+preciſely performed, eſpecially when there was ſo equal a Juſtle, that
+a Grain weight was ſufficient to caſt the Bal<g ref="char:EOLhyphen"/>lance; And Sir
+<hi>Archibald</hi> thought it no Triffle, to aſſert to the Privy Coun<g ref="char:EOLhyphen"/>cil,
+that old Counſellours, who ought to have been called to the Leeting, were
+neglected; but when that falſhood did gain credit, and ſerved his turn, he
+pleads its now become but a Triffle, though upon that Triffle his Magiſtracy
+is foun<g ref="char:EOLhyphen"/>ded; but under his favour, if he hath either aſſerted a Falſhood
+to the Privy<pb n="5" facs="tcp:171794:3"/>Council; or if his aſſertion were true, and
+yet he had neglected to perform, what both the Privy Council and the Set did
+require; he and all who p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omoted
+that Election, ought to be moſt ſeverely and examplarly puniſhed.</p>
+            <p n="2">2. Whereas it is pretended, that it is the ſame thing,
+whether they be marked preſent as Counſellours or Proxies. The Defenders
+are in a wilful miſtake, for the whole intrigue of an Election, is to gain
+the plurality of thoſe who have right to Elect the Proxies; and therefore Sir
+<hi>Archibald</hi> plead before the Privy Council, that theſe old
+Counſellours had right to be Electors of the Proxies; and the Election was
+not annulled, becauſe they were not Elected Proxies, but becauſe they were
+not called to the Election of Proxies, and they were not ſo called at the
+2<hi>d</hi> Election, more than at the firſt.</p>
+            <p n="3">3. Whereas it is pretended, That the marking of theſe as
+Proxies, may be a miſtake of the Clerk. It is anſwered, (may be) is no
+Defence, but truly it is impoſſible to be ſo; for immediatly after the
+Act of Privy Council is Recorded upon the fifth, the Sederunt of the ſixth of
+<hi>June</hi> begins, which contains all the Members of Council that were then
+preſent: Thereafter follows the Acts of that Council; and one of the Acts
+thereof was, that they Elected <hi>James Baillie</hi> and <hi>Patrick
+Johnſton</hi> to be Proxies, and for a further evidence that it would not
+poſſibly be a miſtake, the ſame Sederunt contains a proteſtation
+ingroſſed, taken againſt the Council for the time, becauſe they had
+walked down-right contrary to the Act of Privy Council in that particular, even
+before the Election of Ma<g ref="char:EOLhyphen"/>giſtrats; ſo they could not pretend
+ignorance.</p>
+            <p>To the 2<hi>d,</hi> That the Magiſtrats Elected in <hi>June</hi>
+1691, are now gone out by courſe before they were quarrelled; and by that
+preparative, an Election might be called in queſtion at any time within
+preſcription.</p>
+            <p>It is Replyed, The Purſuers do not conclude the annulling of
+that Election 1691. But do libel theſe Violations and Invaſions upon the
+Set, as Crimes pu<g ref="char:EOLhyphen"/>niſhable in Sir <hi>Archibald,</hi> and theſe who were
+acceſſory to that illegal Procedor, and to ſatisfie the Privy Council
+that this Magiſtracy has its foundation upon a Falſhood, and that it hath
+been continued by a tract of practices, illegal and un<g ref="char:EOLhyphen"/>juſt, that therefore
+the laſt Election ſhould only be annulled, and that theſe of the former
+Council who had no acceſſion to the foreſaid Violations, may pro<g ref="char:EOLhyphen"/>ceed to
+a new and formal Election.</p>
+            <p>The next Point inſiſted on, was the Precipitation of the
+firſt Election, the Act of Council being of the 4. of <hi>June</hi> without
+calling or hearing the firſt Pro<g ref="char:EOLhyphen"/>xies who were legally Elected, the ordinary
+Council fell to be upon <hi>Friday</hi> the 5. of <hi>June,</hi> &amp; the Town
+Council having continued till after one a clock, the Prae<g ref="char:EOLhyphen"/>ſes &amp; a number
+with him having withdrawn, the youngeſt Baillie did take upon him to
+preſide, &amp; did call an extraordinary Council upon <hi>Saturnday</hi> the
+ſixt, where Pro<g ref="char:EOLhyphen"/>xies were Elected to fill up the Council of 30, which could
+not be found out in all <hi>Edinburgh,</hi> without calling the Towns Servants
+and Penſioners, who by the 22. Act of the meeting of Eſtates, were excluded
+from Voting in the Election by the Pole, and even theſe could not be had
+without Threats and Promiſes, and another extraordinary Dyet was called upon
+<hi>Munday,</hi> without the Warrand of the firſt Magiſtrat for the time,
+and at that Dyet Sir <hi>Archibald</hi> was both Leet<g ref="char:EOLhyphen"/>ed and Elected Provoſt,
+whereas the Set appoints the Leeting to be in one day, and the Election in
+another, pages 15 and 16. and all this was neceſſary, becauſe both
+Council and Seſſion were to ſit the day following, which would have
+ſtop<g ref="char:EOLhyphen"/>ped their Procedure.</p>
+            <p>
+               <pb n="6" facs="tcp:171794:4"/>It was Anſwered, the Privy Council having
+appointed a Provoſt to be Elected, it was their duty to proceed with all
+convenient Diligence, and tho the eldeſt Baillie did withdraw, he could not
+diſſolve the Council without their conſent, and any Magiſtrat may call
+a Council, and a <hi>Quorum</hi> being met, they may proceed. 2. There is no
+Law or Cuſtom excluding Towns Penſioners from Voting, and theſe who are
+aimed at, being perſons who have been in the chief Magiſtracy, they are yet
+capable of the ſame Offices, much more to be Proxies, and the Act of the
+meeting of Eſtates relates only to that particular Article. 3. The Leeting
+and Election of the whole Magiſtrats at <hi>Michaelmaſs</hi> does require
+two Dyets, but the Election of a ſingle Magiſtrat at an extraordinary Dyet
+does not require the ſame, and the Defenders deny any Threats or
+Promiſes?</p>
+            <p>It was Replyed, that the three eldeſt Baillies having withdrawn
+after one a clock, and after the Council was adjourned to the next ordinary
+Dyet, it was a Pre<g ref="char:EOLhyphen"/>ſumption without precedent, that the youngeſt ſhould
+not only take upon him to act as Praeſes at that Dyet, but alſo to call an
+extraordinary Council the next day, it be<g ref="char:EOLhyphen"/>ing the conſtant rule of all
+Judicatures that none can call an extraordinary meet<g ref="char:EOLhyphen"/>ing, except the Praeſes
+or principal Member upon the place, eſpecially in matters of the greateſt
+Moment and Importance. 2. The meeting of Eſtates having excluded Towns
+Penſioners and Servants from Voting by the Pole, it was incon<g ref="char:EOLhyphen"/>gruous and
+illegal that ſuch ſhould be admitted as Members in a Council of 30. and the
+calling of them, had a tacit Inſinuation of Threatning, in caſe Sir
+<hi>Archi<g ref="char:EOLhyphen"/>balds</hi> Election had proceeded without them, ſo that they were
+neither at freedom to ſtay away, nor at freedom to Vote when they came,
+leaſt they ſhould loſe their Penſions, without which ſeverals of them
+could not ſubſiſt, and there were more direct Threatnings uſed
+againſt others to force them in, and all this practi<g ref="char:EOLhyphen"/>ſed, notwithſtanding
+of Proteſtations taken, which are alſo recorded in the <hi>Se<g ref="char:EOLhyphen"/>derant</hi>
+of the 6 of <hi>June.</hi> 3. The Leeting and Election in one day, was
+unwar<g ref="char:EOLhyphen"/>rantable, and what the Set doth appoint
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is to be obſerved at every
+extraordinary Election, unleſs there could be ſome important Reaſon of
+Diſparity, otherways all that is appointed by the Set, might be neglected at
+an extraordina<g ref="char:EOLhyphen"/>ry Election upon that Pretence, for the Set ſuppoſes the
+ordinary time of Election, and by that reaſoning, the Defenders might pretend
+that there were no need for 30. or 38. perſons, for the Leeting and Election
+of a ſingle Magiſtrat, and there is nothing more ſuitable than that the
+Leeting and Election ſhould be at different Dyets, becauſe after the Leets
+are compleated the Trades who <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+of 30. are bound to retire, and meet with the eight extraordinary Deacons in
+the <hi>Magdalen</hi> Chappel before the Election, and it were very incongruous
+that the Magiſtrats and Merchant Council, ſhould continue to ſit in
+Council, when they could Act nothing till the Trades did return.</p>
+            <p>And as to the Inſtances of the Leeting and Election of Sir
+<hi>Thomas Kennedy</hi> and Sir <hi>Magnus Prince</hi> in one day, that can be
+no precedent, becauſe they were na<g ref="char:EOLhyphen"/>med by the Kings Letter, and there was
+only the ſhadow, but not the ſubſtance of a free Election.</p>
+            <p>The next point inſiſted in was, that the Set page 10, provides
+that none be upon the Council above two years together, except they be
+Office-men, or by vertue of their Office be upon the Coucil, and by the Set
+<hi>page</hi> 9, <hi>Tit. Council.</hi> It is clear that none are Reckoned
+Office-men but the ſeven Magiſtrats, and the reſt of the 25 being 18
+Perſons are only Counſellors, and by the Set <hi>page</hi> 8. Tradeſmen
+are not Capable to be Magiſtrats or Office-men, yet <hi>George Stirling</hi>
+hath been upon the Council ever ſince the Popular Election, albeit
+Inſtruments were taken againſt<pb n="7" facs="tcp:171794:4"/>him at
+<hi>Michailmaſs</hi> 1691 that he could not be continued: And the like at
+<hi>Michaelmaſs</hi> 1692. And he was ſo far convinced of it, that he
+acknowledg'd in face of Council the continuing of him was contrary to the Set,
+yet the was perſwaded to make bold with it. In like manner <hi>William
+Menzies</hi> hath been above two years upon the Council without Office, and
+theſe were active Inſtruments in the laſt Election, who ought not at all
+to have been Members or concerned in it.</p>
+            <p>It was anſwered, the Set prohibiting any to be above two years
+upon the Council, contains a quality, <hi>viz,</hi> except they be Office-men,
+or by vertue of their Office on the Council, and <hi>George Stirling</hi> and
+<hi>William Menzies</hi> are both in the caſe of that exception, for neither
+of them were evere above two years together upon the Council in the ſame
+Capacity. For Deacon <hi>Stirling</hi> was firſt a Trades Counſellor, then
+two years an ordinary Deacon, and then a Trades Counſellor, and now is
+continued upon the Council. And in like manner <hi>William Menzies,</hi> was
+firſt Treaſurer, and then old Treaſurer, afterwards old Baillie, and
+laſtly old Dean of Gild; And ſo changed Offices yearly. 2. Cuſtom hath
+cleared this, for <hi>William Ha<g ref="char:EOLhyphen"/>milton</hi> Tailyor continued Eight years on
+the Council, by changing his Character from Deacon to Tradeſ-Counſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or: And <hi>Alexander Reid</hi>
+Gold-Smith was con<g ref="char:EOLhyphen"/>tinued in the ſame way upon the Council Seven years; And
+the Purſuers miſtake is in this: that they do not canſider a Deacon as an
+Office, whereas ordinary Deacons are certainly by their Office upon the
+Council, and ſo <hi>George Stirling</hi> falls under the exception of the
+Set.</p>
+            <p>It was Replyed that the Defenders gave ſo much Proof of their
+Ingenuity in the former Pleading anent the Odd Vote, that the Purſuer cannot
+be afraid that the privy Coucil will be eaſily Impoſed upon, to take their
+Commentare upon the Set as good Corn, and what is now pretended, is juſt as
+Falſe and abſured as the Old Aſſertion of the Rights of old
+Counſellors to Vote at extraordinary Elections; And this Commentare upon the
+Set would utterly enervat and overturn the whole Deſign of it, which is to
+Exclude the poſſibility of Inhancing Magiſtracy, for at this Rate; The
+Bulk of the Council might continued for life by changing Cha<g ref="char:EOLhyphen"/>racters once in
+Two years: and the thereby be abſolutely Maſter of Electi<g ref="char:EOLhyphen"/>ons, and the
+Exception would be juſt als large as the Rule.</p>
+            <p n="2">2 As this conſequence were moſt abſurd, ſo the
+Commentare deſtroys the Text, for neither of the the two Defenders fall under
+the Exception of Perſons that may be continued above Two years, and it is
+abſolutely falſe that either of them are Office-Men, or upon the Council by
+Vertue of their Office.</p>
+            <p>For clearing of this Important point, the meaning of the word
+Office-Men, is expreſt <hi>Page</hi> 9. Title Council, bearing that the
+Council doth conſiſt of 18. Perſons, beſide the Office-Men to wit
+Provoſt, Bailies, Dean of Guild and Treaſurer, who are the ſeven
+Magiſtrats: ſo that Office-Men and Magiſtrats are the ſame thing, and
+the ſeven Magſtrats with the 18. Counſellors make the Number of 25; And
+it is a mighty meaſure of conſidence to pretend that an ordinary Deacon, or
+an old Baillie, or old Dean of Guild, is an Office-Man or more than a
+Counſellor, ſeeing this is expreſly contrair to the ſaid <hi>Page</hi>
+9. Title Council, which doth not only expreſs the Number of the Council, but
+ſet down the Perſons that make up that Number of 18. <hi>viz.</hi> Old
+Provoſt, four old Bail<g ref="char:EOLhyphen"/>lies, old Dean of Guild and Theaſurer, and three
+Merchants mo, with eight Craftſ-men, whereof ſix Deacons and two other
+Craftſ-men, commonly called Tradeſ-men counſellors; And the Purſuer
+deſires to know if either o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the
+two Complained upon, were in other Capacitie than theſe, that are contained
+in the enumeration of the Council, except the time that <hi>William
+Minzies</hi> was Theaſurer, which the Purſuers do not reckon or Complain
+on.</p>
+            <p n="3">
+               <pb n="8" facs="tcp:171794:5"/>3. Whereas it is pretended, that at the
+leaſt, the two Defenders, by vertue of their Office, were upon the Council,
+and ſo they fall under the latter part of the Exception. It is anſwered,
+this is another quibble in the vain hopes that the Set will be miſtaken; and
+though that one miſtake ſhould overthrow the whole intent of it, the
+Defenders make no matter. But for clearing the meaning of that part of the
+Exception; The import of theſe words, (or by vertue of their Office be upon
+the Council) is ſuch as are upon the Council without Election, and that is
+the ſeven old Magiſtrats, for theſe who are Magiſtrats this year, are
+old Ma<g ref="char:EOLhyphen"/>giſtrats the next year of courſe, by their Office without Election,
+as appears by the Set, page 9. and more fully by the two year Act ſubjoined
+to the Set, page 4. which is annually confirmed by Oath, and there is no other
+can enter into, or remain upon the Council without Election, or by vertue of
+their Office, ex<g ref="char:EOLhyphen"/>cept the old Magiſtrats allanerly: And whereas it is
+pretended, that <hi>VVilliam Meinzies</hi> was an old Magiſtrat, and
+<hi>George Stirling</hi> as an ordinar Deacon was u<g ref="char:EOLhyphen"/>pon the Council. It was
+anſwered, none of them were upon the Council by vertue of their Office, but
+by Election; for albeit the preſent Magiſtrats of this year, continue upon
+the Council the next year without Election; yet if any of them be advanced to a
+higher Office, or die, or demit, in that caſe, there is a vacancy of an old
+Magiſtrats place, which muſt be ſupplyed by Election, as in this caſe
+<hi>VVilliam Meinzies</hi> was advanced to be old Baillie, on the deceaſe of
+<hi>Tho<g ref="char:EOLhyphen"/>mas VVyllie;</hi> and although <hi>Thomas</hi> would have been old
+Baillie of courſe by his Office; yet <hi>VVilliam Menzies</hi> cam there by
+Election, and cannot by changing his Character be perptuat in the Council by
+ſeveral Elections; In like manner it is a rare pretence, that <hi>George
+Stirling</hi> by his Office of ordinary Deacon is up<g ref="char:EOLhyphen"/>on the Council, for it is
+Council that Elects him an ordinary Deacon, and he is not an ordinary Deacon
+without Election; But the Trades do make choice of fourteen Deacons: And out of
+theſe, the Council doth choiſe ſix ordinary Dea<g ref="char:EOLhyphen"/>cons, and the Councils
+choiſe hath this reſtriction by the Set, that they cannot by Election
+continue any Perſon above two years a ſingle Counſellor, but if a
+Counſellor be advanced to the Magiſtracy which a Crafts-man cannot, he may
+be advanced the third year, and may a fourth year be an old Magiſtrat, and
+ſo may advance to a higher degree of the Magiſtracy, till at laſt he go
+out. And where<g ref="char:EOLhyphen"/>as ſeveral Precedents are condeſcended upon, which are
+alledg'd to Introduce a Cuſtom of continuing Perſons longer than two years
+upon the Council. It is an<g ref="char:EOLhyphen"/>ſwered, the Examples are only two, not
+ſufficient to Introduce a Cuſtom, and a practiſe contrair to the Set, can
+be no Rule to overturn what is clearly provid<g ref="char:EOLhyphen"/>ed by it, and it cannot be
+condeſcended upon, that ever Proteſtations were taken againſt theſe
+Perſons, or that their continuing was approven by any Judicature, and it is
+not every Violation of the Set, that draws Perſons to a publick Complaint
+againſt a Magiſtracy, it is true ſome Magiſtrats may have
+tranſgreſſed againſt it in one particular, and ſome in another: But
+this Magiſtracy hath trampled upon, and invaded it on all corners, and the
+Meeting of Eſtates having a ſpecial regard to the Impoſing of
+Magiſtrats by an undue Election, did ſtate that as an Article in the claim
+of Right to be contrair to Law, and did once appoint Popular Elections that
+Magiſtracy might ever proceed by a legal and due Election in time coming. So
+that no Precedent before the Poll, can be ſuſtained againſt the
+Conſtitution of the City.</p>
+            <p>
+               <pb n="9" facs="tcp:171794:5"/>Another notable Violation of the Set was at the
+laſt two Elections, in ſo far as the Set appoints 30 perſons to be
+preſent at Leeting, and expreſſes the diffe<g ref="char:EOLhyphen"/>rent and diſtinct
+Capacities of each of theſe 30 perſons, <hi>pages</hi> 14, and 15. and
+appoints the ſaid 30 perſons, with eight Craftſmen more, to be preſent
+at the Election; yet Deacon <hi>Carſe</hi> and Deacon <hi>Stirling</hi> were
+elected, each in two diſtinct Capacities, the one an extraordinary Deavon and
+Trades-counſellor, and the other, to wit, Deacon <hi>Stirling</hi> an old
+Counſellor, and a new Counſellor at the ſame time; and becauſe the Set
+provides 30, and 38 to be preſent at Leeting and Ele<g ref="char:EOLhyphen"/>ction
+<hi>reſpectivè,</hi> therefore two Proxies were choſen, one for
+Deacon <hi>Carſe,</hi> and another for <hi>George Stirling,</hi> though they
+were both perſonally preſent.</p>
+            <p>It was Anſwered, There is nothing in the Set to hinder any
+perſon to be ele<g ref="char:EOLhyphen"/>cted in two ſeveral Capacities, and particularly to hinder
+an extraordinary Deacon to be a Tradeſ-counſellor, or a
+Tradeſ-counſellor one year to be continued ano<g ref="char:EOLhyphen"/>ther, and that does not
+abridge the number of theſe who Leet and Elect, becauſe Proxies are
+choſen to make up that number.</p>
+            <p>It was Replyed, This is alſo altogether againſt the Set, for
+it doth not only de<g ref="char:EOLhyphen"/>termine the number of perſons, but likewiſe doth
+expreſs their ſeveral Capacities, and if one might ſupply two Capacities,
+the number of the Council might be a<g ref="char:EOLhyphen"/>bridged to the one half; as for example,
+if <hi>George Stirling</hi> being a Trades-coun<g ref="char:EOLhyphen"/>ſellor the laſt, might
+alſo be continued this, by the ſame reaſon the other Trades-counſellor
+might be continued, and likewiſe the three Merchant-coun<g ref="char:EOLhyphen"/>ſellors, and ſo
+5 of the old Council would be alſo 5 of the new, notwithſtanding the Set,
+page 15 provides that the new Council of 18 perſons, and the old Coun<g ref="char:EOLhyphen"/>cil of
+12 ſhall meet for the making of Leets, and by this means the old Council,
+will be reduced to ſeven perſons, ſo that it is clear that the Set doth
+provide the 12 and 18 to be different and diſtinct perſons to prevent
+Packing, and whereas it is pretended, that 5 Proxies may be choſen to
+ſupply the place of the old Trade or Merchant Counſellors, it is
+anſwered, that does not at all take off the Incon<g ref="char:EOLhyphen"/>venience, for by the Set
+the full number are once to be choſen of diſtinct ſeveral perſons, and
+the abſence of any Party is to be ſupplied by Proxies, but that there
+ſhould be a want in the Conſtitution, and in place of 38 there ſhould be
+only 33, or a ſmaller number elected upon the Council, that would intirely
+enervat the Set. 2. The ſupplying theſe wanting perſons by Proxies, doth
+not at all anſwer the deſign of the Set; for theſe who have the Plurality
+of the ordinary Council, can chuſe Proxies as they pleaſe, with proſpect
+to the particular deſign in hand, and ſo are abſolutely Maſters of any
+Election, and if this were once allowed, a factious Party would always abridge
+the number, that they might fill them up, upon a particular proſpect; and the
+gaining of one Vote, is moſt ordinarly to gain all the Election, and one Vote
+of the Trades is worth two of the Merchants, becauſe the Trades being
+incapable of Magiſtra<g ref="char:EOLhyphen"/>cy, they are ordinarly invidious and jealous of
+inhauncing the Government, and with great difficulty can they be pacqued, and
+therefore the Set allows them a greater Intereſt at Election than at any
+other time, they begin ordinarly leſs than the third, and at the Election
+they are 18 of 38, and by immemorial cuſtom they do abſolutely rule and
+influence Elections by the <hi>Magdalen</hi>-Chappel, for they are allowed to
+meet ſeparatly there and to Vote upon the Leets of every Magiſtrat, and who
+ever hath the plurality of Votes, the ſmaller part by immemorial cuſtom
+doth join with the greater, whereby they have 18 uniform Votes at the Election,
+and by gaining two of the Merchant-Council, they have the Plurality, ſo that
+if a pacquing Magiſtracy ſhould be allowed to abridge the number of Trades,
+till the E<g ref="char:EOLhyphen"/>lection<pb n="10" facs="tcp:171794:6"/>did occur, the Merchants in the ordinary
+Council, (who are eaſily ſwayed by advancement into the Magiſtracy) and
+who have the greateſt influence in it, would chuſe Proxies for Trades one
+or moe for the purpoſe, and it would be no difficulty to gain the plurality
+of the Trades in the Chappel, and thereby to carry the whole Election.</p>
+            <p>And as to the Alledgance that the like has been practiſed
+before, There is only a ſingle Caſe inſtanced at the time when Elections
+were not free, which can make no Rule.</p>
+            <p>Conſtant Cuſtom hath prevailed to give the <hi>Magdalen</hi>
+Chappel the over-ruling power of Elections, wherein no great Inconveniency hath
+ever been found, but at the laſt Election the major part being againſt Sir
+<hi>John Hall,</hi> ſeven of 18 that were for him, did combine, and enter
+into a written Ingagement that they ſhould adhere to him, which is a
+Practiſe without precedent contrary to Law, and pub<g ref="char:EOLhyphen"/>lict Utility, tending
+only to Faction, and this point being ſimply denyed, it is proven by the
+Oaths of the Subſcribers, all of them having acknowledged the Signing of a
+Paper, predetermining them as to the Election.</p>
+            <p>The Set alſo appoints, page 16. that the Council of 30 ſhould
+ſolemnly proteſt before God, that they ſhall chuſe without Fead, Favour
+or Colluſion, and the ſecret Practiſes for carrying on this Election
+being known, it was required that every Member ſhould be appointed to
+proteſt in the Terms of the Set, which was ab<g ref="char:EOLhyphen"/>ſolutely refuſed, and
+Inſtruments taken thereupon, and it is falſe which is pretended, that ever
+Baillie <hi>Blackwood</hi> did acquieſce, elſe the Inſtrument would not
+have been inſert.</p>
+            <p>The Proxies not having anſwered expectation at the laſt
+Election, they were removed by a Vote of Council, and tho the eight
+extraordinary Deacons were pre<g ref="char:EOLhyphen"/>ſent, yet they were not admitted to Vote
+either, whether they ſhould be removed, or who ſhould be choſen in their
+places, becauſe none of them were for the preſent deſign.</p>
+            <p>It was anſwered. 1. Proxies have only a precarious Right, and
+being choſen only for a particular effect, they might be removed and new ones
+choſen at every Dyet. 2. The extraordinary Deacons had no Intereſt to Vote
+anent the Proxies, becauſe they have only Right to Vote in the Election.</p>
+            <p>It was Replyed. 1. It is true Proxies are only choſen to a
+ſpecial effect but that effect is all that relates to the Election, and they
+have as good right to act and vote in relation to it, as any other in the
+Council, it is true they are but Proxies for ab<g ref="char:EOLhyphen"/>ſent perſons, &amp; if the
+perſons whom they repreſent ſhould appear at the Dyet they are elected or
+any other, they had no more Intereſt, but in abſence of theſe for whom
+they are Proxies, they cannot be removed, and they never were removed in any
+caſe. 2. The Set appoints 30 perſons for Leeting, and the <hi>Title
+Electi<g ref="char:EOLhyphen"/>on,</hi> page 16. doth provide that the ſaids 30 perſons with 8
+extraordinary Dea<g ref="char:EOLhyphen"/>ons ſhall Elect, ſo the ſame 30 who have Right to Leet,
+are alſo to Elect, and cannot be removed, and it is without all precedent to
+remove Proxies once cho<g ref="char:EOLhyphen"/>ſen, and in this caſe the Proxies upon the firſt
+Election, had already attended two Dyets, and were cited to attend the third at
+the Election, tho they were remo<g ref="char:EOLhyphen"/>ved when they came. 3. The Set, page 17.
+appointing the 8 extraordinary Deacons to be preſent at the Election, they
+are a part of the Council that day, and nothing can be Voted in that Council,
+whereof they are a part, without al<g ref="char:EOLhyphen"/>lowing them a Vote, yet they were not
+ſuffered to Vote anent the Proxies, and if they had they would have retained
+them.</p>
+            <p>
+               <pb n="11" facs="tcp:171794:6"/>The Set doth alſo provide that none ſhall
+be advanced to the Magiſtracy, unleſs they have been one year or two upon
+the Council before, yet <hi>Patrick Johnston</hi> was Elected a Baillie at the
+Election 1691, and <hi>James Bowden</hi> at the laſt Electi<g ref="char:EOLhyphen"/>on, tho neither
+of them was ever a year upon the Council.</p>
+            <p>And whereas it was pretended, that <hi>annus ceptus procompleto
+habetur.</hi>
+            </p>
+            <p>It is anſwered, the Set bears, they ſhall be a year or two,
+which muſt at leaſt import that they have been one intire year upon the
+Council.</p>
+            <p>And ſeing the Purſuers have only raiſed this Complaint as
+faithful Burgeſſes, for the Preſervation of the Fundamental Laws and
+Conſtitutions of the City, without any by end or project of advancing any of
+themſelves into the Magiſtracy, but that there may be a free Election of
+ſuch perſons as may be acceptable to the people, and ſuch as may be
+moſt fit for ſupporting the Intereſt and Government of the Church and
+State as they are by Law eſtabliſhed, and that all of the Purſu<g ref="char:EOLhyphen"/>ers did
+very early evidence their Loyalty and Affection to both, and particularly when
+this Nation was threatned with a moſt unnatural Invaſion, they are hum<g ref="char:EOLhyphen"/>bly
+Confident that the Lords of their Majeſties Privy Council will be careful to
+preſerve the Priviledges and Conſtitutions of this Metropolitan City, and
+puniſh the perſons Guilty of, and Acceſſory to the foreſaid
+Violations and Invaſions up<g ref="char:EOLhyphen"/>on the Set and Decreet Arbitral, and annul the
+laſt illegal and informal Election, and Authorize the Magiſtrats and
+Council, in Office before <hi>Michael<g ref="char:EOLhyphen"/>maſs</hi> laſt, to begin a new and
+formal Election, excluding always theſe who have been Acceſſory to the
+foreſaid Invaſions, <hi>viz.</hi> Sir <hi>John Hall,</hi> Sir <hi>Archibald
+Muir, William Menzies, George Stirling, Patrick Haliburton,</hi> and
+<hi>Patrick Johnſtoun,</hi> and the ordinary Deacons who have been
+acceſſory to the Combination.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
